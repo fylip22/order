@@ -25,7 +25,7 @@ msgstr ""
 
 #: inc/bill.class.php:64
 msgid "A bill number is mandatory"
-msgstr "un numéro de facture est obligatoire"
+msgstr "Un numéro de facture est obligatoire"
 
 #: inc/reference.class.php:325
 msgid "A reference with the same name still exists"
@@ -49,7 +49,7 @@ msgstr "Ajouter les détails de facturation à l'élément"
 
 #: inc/config.class.php:309
 msgid "Add immobilization number to item"
-msgstr ""
+msgstr "Ajouter un numéro d'immobilisation à l'élément"
 
 #: inc/config.class.php:296
 msgid "Add order location to item"
@@ -73,7 +73,7 @@ msgstr "Ajouter à la commande depuis le catalogue"
 
 #: inc/surveysupplier.class.php:225 inc/surveysupplier.class.php:322
 msgid "Administrative followup quality (contracts, bills, mail, etc.)"
-msgstr "Qualité du suivi administratif (contrat, factures, courrier...)"
+msgstr "Qualité du suivi administratif (contrats, factures, courrier...)"
 
 #: inc/order.class.php:751 inc/order.class.php:841
 msgid "An account section is mandatory !"
@@ -197,7 +197,7 @@ msgstr "Commentaire de la validation"
 
 #: inc/surveysupplier.class.php:196 inc/surveysupplier.class.php:400
 msgid "Comment on survey"
-msgstr "Commentaire du Sondage"
+msgstr "Commentaire du sondage"
 
 #: inc/surveysupplier.class.php:234 inc/surveysupplier.class.php:329
 msgid "Commercial followup quality, visits, responseness"
@@ -335,17 +335,17 @@ msgstr "Afficher les informations fournisseur de la commande"
 #: inc/order.class.php:1597
 msgid ""
 "Do you really want to cancel this order ? This option is irreversible !"
-msgstr "Voulez vous vraiment annuler cette commande ? Cette option est irréversible!"
+msgstr "Voulez-vous vraiment annuler cette commande ? Cette option est irréversible !"
 
 #: inc/order_item.class.php:1070 inc/order_item.class.php:1271
 msgid ""
 "Do you really want to delete these details ? Delivered items will not be "
 "linked to order !"
-msgstr "Voulez vous vraiment supprimer ce(s) détail(s) ? Les matériels livrés ne seront plus liés à la commande !"
+msgstr "Voulez-vous vraiment supprimer ce(s) détail(s) ? Les matériels livrés ne seront plus liés à la commande !"
 
 #: inc/order.class.php:1624
 msgid "Do you really want to edit the order ?"
-msgstr "Voulez vous modifier le contenu de la commande ? "
+msgstr "Voulez-vous modifier le contenu de la commande ? "
 
 #: inc/order_item.class.php:872 inc/order_item.class.php:1079
 #: inc/order_item.class.php:1280
@@ -354,7 +354,7 @@ msgstr "Souhaitez-vous vraiment mettre à jour cette référence commandée ? "
 
 #: inc/order.class.php:1610
 msgid "Do you want to cancel the validation approval ?"
-msgstr "Voulez vous vraiment annuler la demande de validation ?"
+msgstr "Voulez-vous vraiment annuler la demande de validation ?"
 
 #: inc/documentcategory.class.php:39
 msgid "Document category"
@@ -400,7 +400,7 @@ msgstr "Note globale du fournisseur"
 
 #: inc/link.class.php:86 inc/link.class.php:571
 msgid "Generate item"
-msgstr "Générer matériel associé"
+msgstr "Générer le matériel associé"
 
 #: inc/order.class.php:311
 msgid "Generate order without validation"
@@ -700,7 +700,7 @@ msgstr "Prix Total (HT)"
 
 #: inc/order.class.php:1441 inc/order.class.php:1932
 msgid "Price tax free with postage"
-msgstr "Prix Total + Frais de port (HT)"
+msgstr "Prix total + frais de port (HT)"
 
 #: inc/order_item.class.php:173 inc/order_item.class.php:492
 msgid "Product name"
@@ -789,7 +789,7 @@ msgstr "Signature de l’émetteur d’ordre"
 
 #: inc/order_item.class.php:273
 msgid "Some fields cannont be modified because they belong to an order"
-msgstr "Certains champs ne peuvent-être modifiés : ils proviennent d'une commande"
+msgstr "Certains champs ne peuvent être modifiés : ils proviennent d'une commande"
 
 #: inc/config.class.php:373
 msgid "State before validation"
@@ -804,7 +804,7 @@ msgstr "Montant HT"
 #: inc/order_supplier.class.php:467 inc/reference_supplier.class.php:165
 #: inc/reference_supplier.class.php:291
 msgid "Supplier Detail"
-msgstr "Infos Fournisseur"
+msgstr "Infos fournisseur"
 
 #: front/reference_supplier.form.php:67 inc/reference_supplier.class.php:48
 #: inc/reference_supplier.class.php:89
@@ -842,7 +842,7 @@ msgstr "le"
 
 #: front/order.form.php:143 front/order.form.php:241 front/order.form.php:409
 msgid "The discount pourcentage must be between 0 and 100"
-msgstr "Le pourcentage de remise doit-être compris entre 0 et 100"
+msgstr "Le pourcentage de remise doit être compris entre 0 et 100"
 
 #: inc/order.class.php:760 inc/order.class.php:831
 msgid ""
@@ -864,11 +864,11 @@ msgstr "Transférer"
 
 #: inc/config.class.php:212
 msgid "Transmit budget change to linked assets"
-msgstr "Transmettre les changements de budget aux assets associés"
+msgstr "Transmettre les changements de budget aux éléments associés"
 
 #: inc/order.class.php:1804
 msgid "Unit price"
-msgstr "Prix Unitaire"
+msgstr "Prix unitaire"
 
 #: inc/order_item.class.php:128 inc/order_item.class.php:388
 #: inc/order_item.class.php:498 inc/order_item.class.php:865
@@ -953,7 +953,7 @@ msgstr "Vous ne pouvez pas supprimer ce statut"
 
 #: inc/order_item.class.php:634
 msgid "You must select a reference"
-msgstr ""
+msgstr "Vous devez sélectionner une référence"
 
 #: inc/order.class.php:896
 msgid "You must set up at least the order life cycle before starting."
